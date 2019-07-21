@@ -203,8 +203,5 @@ if __name__ == '__main__':
     RecipientMailID =  gAssist(myCommand())
     mailSubject = getSubject()
     mailMessage = getMessage()
-    print(SenderMailID)
-    print(RecipientMailID)
-    print(mailSubject)
     messageObj =  CreateMessage(SenderMailID,RecipientMailID,mailSubject,mailMessage)
     messageSend = SendMessage(serviceObj,'me',messageObj)
