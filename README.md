@@ -9,7 +9,8 @@ A simple voice assitance for Gmail API to send mail.
     apiclient
     speech_recognition
     gtts
-Python version 3.x \n
+Python version 3.x
+
 Pip version 19.x
 ## Usage
     use "email" keyword to initiate the procedure.
