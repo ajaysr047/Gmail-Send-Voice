@@ -1,4 +1,4 @@
-# Gmail-Send-Voice
+# Gmail-Send-Voice using python
 A simple voice assitance for Gmail API to send mail.
 
 ## Packages used :
