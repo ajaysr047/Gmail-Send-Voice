@@ -1,5 +1,5 @@
 # Gmail-Send-Voice
-A simple voice assitance fot Gmail API
+A simple voice assitance for Gmail API to send mail.
 
 ## Packages used :
     pickle
