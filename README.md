@@ -24,6 +24,10 @@ Pip version 19.x
     pip install gTTS
     pip install SpeechRecognition 
               https://pypi.org/project/SpeechRecognition/
+   
+    sudo apt-get install python-pyaudio python3-pyaudio  -- For microphone
+              http://people.csail.mit.edu/hubert/pyaudio/#downloads
+    
     python gmailVoice.py
 
 
